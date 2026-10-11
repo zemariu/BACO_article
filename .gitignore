@@ -1,0 +1,25 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Positron / VS Code
+.vscode/
+.positron/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary files
+~$*
+*.tmp
+
+# Generated outputs
+results/*
+manuscript_outputs/*
+
+# Keep directory structure
+!results/.gitkeep
+!manuscript_outputs/.gitkeep
